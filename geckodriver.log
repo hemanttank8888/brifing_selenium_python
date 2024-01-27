@@ -1,0 +1,151 @@
+1694165253703	geckodriver	INFO	Listening on 127.0.0.1:2801
+1694165256746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2802" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\heman\\AppData\\Local\\Temp\\rust_mozprofileAFJxsF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694165257621	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694165257866	Marionette	INFO	Listening on port 2817
+WebDriver BiDi listening on ws://127.0.0.1:2802
+Read port: 2817
+1694165258231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:2802/devtools/browser/293a871a-5f3f-4423-96b1-50b8324cdb76
+1694165300496	Marionette	INFO	Stopped listening on port 2817
+Dynamically enable window occlusion 1
+1694165322316	geckodriver	INFO	Listening on 127.0.0.1:2937
+1694165325324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2938" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\heman\\AppData\\Local\\Temp\\rust_mozprofileXAzAM0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694165325892	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694165326064	Marionette	INFO	Listening on port 2959
+Read port: 2959
+WebDriver BiDi listening on ws://127.0.0.1:2938
+1694165326152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:2938/devtools/browser/40ede36b-880f-4906-b825-798f1c94f33f
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.briefing.com."
+1694165360953	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 121: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+1694165453113	Marionette	INFO	Stopped listening on port 2959
+Dynamically enable window occlusion 1
+1694165469620	geckodriver	INFO	Listening on 127.0.0.1:3168
+1694165472698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\heman\\AppData\\Local\\Temp\\rust_mozprofileVk4yok"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694165473289	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694165473483	Marionette	INFO	Listening on port 3180
+WebDriver BiDi listening on ws://127.0.0.1:3169
+Read port: 3180
+1694165473863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:3169/devtools/browser/7741806f-44ad-43f7-9c64-c4240dc84826
+JavaScript warning: https://www.briefing.com/polyfills.js, line 45: Script terminated by timeout at:
+N@https://www.briefing.com/polyfills.js:45:908
+B@https://www.briefing.com/polyfills.js:45:1291
+
+1694165509983	Marionette	INFO	Stopped listening on port 3180
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1694165510042	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+1694165639752	geckodriver	INFO	Listening on 127.0.0.1:3412
+1694165642832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "3413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\heman\\AppData\\Local\\Temp\\rust_mozprofileYgyzDr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694165643432	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694165643648	Marionette	INFO	Listening on port 3423
+WebDriver BiDi listening on ws://127.0.0.1:3413
+Read port: 3423
+1694165644002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:3413/devtools/browser/7113f4ae-6e3b-4f55-9063-2db1da2cba9a
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+1694165673561	Marionette	INFO	Stopped listening on port 3423
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+1694165673668	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+1695448781264	geckodriver	INFO	Listening on 127.0.0.1:51473
+1695448784321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51474" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\heman\\AppData\\Local\\Temp\\rust_mozprofile0Q3y6s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695448785044	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695448785201	Marionette	INFO	Listening on port 51484
+WebDriver BiDi listening on ws://127.0.0.1:51474
+Read port: 51484
+1695448785415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51474/devtools/browser/919e1c09-0e2c-4585-bad3-d53c760f1235
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB, line 157: Script terminated by timeout at:
+id.prototype.set@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:157:1531
+f@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:159:233
+pd@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:159:651
+r@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:157:2921
+Hz@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:444:149
+Fz/</<@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:442:187
+l@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:137:62
+Fz/<@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:442:167
+l@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:137:62
+Fz@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:442:134
+Gz/<@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:442:111
+
+1695448807495	Marionette	INFO	Stopped listening on port 51484
+Dynamically enable window occlusion 1
+1695448820004	geckodriver	INFO	Listening on 127.0.0.1:51864
+1695448823097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51865" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\heman\\AppData\\Local\\Temp\\rust_mozprofilehHHaZI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695448823649	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695448823846	Marionette	INFO	Listening on port 51872
+WebDriver BiDi listening on ws://127.0.0.1:51865
+Read port: 51872
+1695448824118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51865/devtools/browser/b7184999-f6a6-416d-b330-eb0eb94bc329
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.briefing.com."
+1695448858339	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 121: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB, line 137: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:137:17
+Fz@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:442:134
+Gz/<@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:442:111
+
+1695448914940	Marionette	INFO	Stopped listening on port 51872
+Dynamically enable window occlusion 1
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))
+1695532519584	geckodriver	INFO	Listening on 127.0.0.1:49368
+1702960141389	geckodriver	INFO	Listening on 127.0.0.1:53866
+1702960144496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\heman\\AppData\\Local\\Temp\\rust_mozprofilegH8jjo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702960145553	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702960145795	Marionette	INFO	Listening on port 53876
+WebDriver BiDi listening on ws://127.0.0.1:53867
+Read port: 53876
+1702960146170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53867/devtools/browser/76332980-0f9d-4866-a9ad-0daea23176a7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.briefing.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.briefing.com."
+1702960176875	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  main/search-config-v2 Signature failed  InvalidSignatureError: Invalid content signature (main/search-config-v2) using 'remote-settings.content-signature.mozilla.org-2024-01-19-16-42-21.chain'
+console.error: services.settings: 
+  main/search-config-v2 local data was corrupted
+console.warn: services.settings: main/search-config-v2 Signature verified failed. Retry from scratch
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB, line 137: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:137:17
+mA@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:463:134
+nA/<@https://www.googletagmanager.com/gtag/js?id=G-BK8HSDV5QB:463:111
+
+1702960193581	Marionette	INFO	Stopped listening on port 53876
+Dynamically enable window occlusion 1
